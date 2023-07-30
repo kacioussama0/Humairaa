@@ -1,0 +1,29 @@
+@font-face {
+    font-family: sandibad;
+    src: url("../webfonts/ae_Sindibad-1.ttf");
+}
+
+@font-face {
+    font-family: bellarose;
+    src: url("../webfonts/Bellarose_DEMO.ttf");
+}
+
+
+body {
+    font-family: sandibad;
+    font-size: 18px;
+}
+
+
+.bellarose {
+    font-family: bellarose !important;
+}
+
+.bg-primary {
+    background: #663399 !important;
+}
+
+.text-primary {
+    color: #663399 !important;
+}
+
